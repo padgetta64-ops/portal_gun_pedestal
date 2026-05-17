@@ -1,0 +1,11 @@
+Model Information:
+* title:	Portal Gun Pedestal
+* source:	https://sketchfab.com/3d-models/portal-gun-pedestal-04fd0e419a904ba18bd794c379b2794e
+* author:	Igrium (https://sketchfab.com/Sam54123)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Portal Gun Pedestal" (https://sketchfab.com/3d-models/portal-gun-pedestal-04fd0e419a904ba18bd794c379b2794e) by Igrium (https://sketchfab.com/Sam54123) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
